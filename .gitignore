@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vscode/
+guidelines/
+
+.env
+.env.local
